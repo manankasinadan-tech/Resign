@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RESIGN</string>
+    <string name="tagline">GSI &amp; APK Re-signing Engine</string>
+    <string name="workspace_path">Workspace: /sdcard/RESIGN</string>
+    <string name="select_image">Select GSI Image (.img)</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="btn_resign">RESIGN</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="keyset_dialog_title">Create Keyset</string>
+    <string name="keyset_dialog_desc">Define identity details (Distinguished Name) for the new cryptographic keys. Signature schemes (V1-V4) and algorithms are automatically configured based on target GSI analysis.</string>
+</resources>

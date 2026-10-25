@@ -1,0 +1,6 @@
+{
+  "name": "RESIGN",
+  "description": "Advanced GSI and APK re-signing system with signature clustering, keyset generation, and factual AI cross-analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
